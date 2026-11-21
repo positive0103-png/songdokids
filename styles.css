@@ -2865,6 +2865,42 @@ tbody th {
   line-height: 1.5;
 }
 
+.fees-more {
+  margin: 12px 0 0;
+  padding: 0 14px;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.fees-more summary {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--mint-deep);
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.fees-more ul {
+  margin: 4px 0 8px;
+  padding: 0;
+  list-style: none;
+  color: var(--ink-2);
+}
+
+.fees-more li + li {
+  margin-top: 6px;
+}
+
+.fees-more strong {
+  margin-right: 6px;
+  color: var(--ink);
+  font-weight: 600;
+}
+
 .fees-notes {
   margin: 12px 0 0;
   padding: 0 14px;
@@ -2923,7 +2959,8 @@ tbody th {
   .fees .fees-group th {
     padding-inline: 4px;
   }
-  .fees-notes {
+  .fees-notes,
+  .fees-more {
     padding-inline: 4px;
   }
 }
