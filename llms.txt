@@ -16,7 +16,7 @@
 - 지하철: 인천 1호선 테크노파크역이 가깝습니다
 - 홈페이지: https://songdokids.co.kr/
 - 네이버 지도: https://map.naver.com/p/entry/place/1344024364
-- 부설 기관: 송도키즈 학습심리발달클리닉 (https://lke081384-maker.github.io/songdo-kids-clinic/)
+- 부설 기관: 송도키즈 학습심리발달클리닉 (https://www.songdokidsclinic.co.kr/)
 
 ## 진료 시간
 

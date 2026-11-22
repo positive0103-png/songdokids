@@ -16,7 +16,7 @@
 - 지하철: 인천 1호선 테크노파크역이 가깝습니다
 - 홈페이지: https://songdokids.co.kr/
 - 네이버 지도: https://map.naver.com/p/entry/place/1344024364
-- 부설 기관: 송도키즈 학습심리발달클리닉 (https://lke081384-maker.github.io/songdo-kids-clinic/)
+- 부설 기관: 송도키즈 학습심리발달클리닉 (https://www.songdokidsclinic.co.kr/)
 
 ## 진료 시간
 
@@ -116,7 +116,7 @@
 
 발달클리닉 홈페이지
 
-[바로 가기](https://lke081384-maker.github.io/songdo-kids-clinic/)
+[바로 가기](https://www.songdokidsclinic.co.kr/)
 
 ## 아이가 덜 힘든 검사와 치료
 
@@ -320,7 +320,7 @@
 - 진료 안내: [아토피·알레르기, 키 성장, 소아 시력 검사, 영유아 건강검진, 예방접종, 성인 진료](https://songdokids.co.kr/clinics/)
 - 주차: 상가 지하 주차장, 3시간 무료
 - 지하철: 인천 1호선 테크노파크역이 가깝습니다
-- 부설 기관: [송도키즈 학습심리발달클리닉](https://lke081384-maker.github.io/songdo-kids-clinic/)
+- 부설 기관: [송도키즈 학습심리발달클리닉](https://www.songdokidsclinic.co.kr/)
 
 ---
 
@@ -404,7 +404,7 @@
 - 언어치료
 - 놀이치료
 
-[바로 가기](https://lke081384-maker.github.io/songdo-kids-clinic/)
+[바로 가기](https://www.songdokidsclinic.co.kr/)
 
 ### 소아청소년과 진료
 
@@ -1012,7 +1012,7 @@ X선 촬영
 
 | 서류 종류 | 수수료 |
 | --- | --- |
-| 진료확인서 | 3,000원 |
+| 진료확인서 | 2,000원 |
 | 통원확인서 | 3,000원 |
 | 상세 의사소견서 | 10,000원 |
 | 간단 의사소견서 | 5,000원 |
@@ -1299,7 +1299,7 @@ X선 촬영
 
 ### 발달이나 학습, 심리 상담도 받을 수 있나요?
 
-부설 [송도키즈 학습심리발달클리닉](https://lke081384-maker.github.io/songdo-kids-clinic/)에서 안내합니다.
+부설 [송도키즈 학습심리발달클리닉](https://www.songdokidsclinic.co.kr/)에서 안내합니다.
 
 ## 영유아 건강검진
 
