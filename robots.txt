@@ -46,4 +46,4 @@ User-agent: YouBot
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://positive0103-png.github.io/songdokids/sitemap.xml
+Sitemap: https://songdokids.co.kr/sitemap.xml

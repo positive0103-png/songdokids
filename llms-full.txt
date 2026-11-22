@@ -2,7 +2,7 @@
 
 > 인천 송도 글로벌캠퍼스푸르지오 204동 상가 2층에 있는 소아청소년과의원입니다. 소아청소년과 진료와 함께 영유아 건강검진, 예방접종, 아토피·알레르기, 키 성장, 소아 시력 검사를 하고 성인도 진료합니다.
 
-이 파일은 2026년 11월 22일에 만들었습니다. 요약본은 https://positive0103-png.github.io/songdokids/llms.txt 에 있습니다.
+이 파일은 2026년 11월 22일에 만들었습니다. 요약본은 https://songdokids.co.kr/llms.txt 에 있습니다.
 
 ## 기본 정보
 
@@ -14,7 +14,7 @@
 - 전화: 0507-1347-8115
 - 주차: 상가 지하 주차장, 3시간 무료
 - 지하철: 인천 1호선 테크노파크역이 가깝습니다
-- 홈페이지: https://positive0103-png.github.io/songdokids/
+- 홈페이지: https://songdokids.co.kr/
 - 네이버 지도: https://map.naver.com/p/entry/place/1344024364
 - 부설 기관: 송도키즈 학습심리발달클리닉 (https://lke081384-maker.github.io/songdo-kids-clinic/)
 
@@ -36,14 +36,14 @@
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/
+주소: https://songdokids.co.kr/
 마지막 수정: 2026-11-22
 
 # 송도키즈 소아청소년과의원 · 인천 송도 세 아이 아빠의 마음으로 진료합니다
 
 아이는 덜 힘들게, 진료는 더 꼼꼼하게. 글로벌캠퍼스푸르지오 204동 상가 2층에 있는 인천 송도 소아과입니다.
 
-전화하기 0507-1347-8115 [오시는 길 보기](https://positive0103-png.github.io/songdokids/location/)
+전화하기 0507-1347-8115 [오시는 길 보기](https://songdokids.co.kr/location/)
 
 - 평일 저녁 6시 30분까지
 - 토요일 오후 1시 30분까지
@@ -68,7 +68,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/atopy/)
+[바로 가기](https://songdokids.co.kr/clinics/atopy/)
 
 ### 키 성장
 
@@ -76,7 +76,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/growth/)
+[바로 가기](https://songdokids.co.kr/clinics/growth/)
 
 ### 소아 시력 검사
 
@@ -84,7 +84,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/vision/)
+[바로 가기](https://songdokids.co.kr/clinics/vision/)
 
 ### 영유아 건강검진
 
@@ -92,7 +92,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/checkup/)
+[바로 가기](https://songdokids.co.kr/clinics/checkup/)
 
 ### 예방접종
 
@@ -100,7 +100,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/vaccination/)
+[바로 가기](https://songdokids.co.kr/clinics/vaccination/)
 
 ### 성인 진료
 
@@ -108,7 +108,7 @@
 
 자세히 보기
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/adult/)
+[바로 가기](https://songdokids.co.kr/clinics/adult/)
 
 ### 발달클리닉
 
@@ -122,7 +122,7 @@
 
 아픈 아이에게는 검사도 큰일입니다. 검사와 치료를 받는 동안 아이가 겪는 불편을 줄이는 데 먼저 신경 썼습니다.
 
-[검사·치료 장비 모두 보기](https://positive0103-png.github.io/songdokids/equipment/)
+[검사·치료 장비 모두 보기](https://songdokids.co.kr/equipment/)
 
 ### 저선량 X-ray
 
@@ -144,7 +144,7 @@
 
 대기실 한가운데에 아이들이 올라앉아 놀 수 있는 넓은 소파가 있습니다. 진료실과 아토피치료실, 수액실, X-ray 검사실은 대기실에서 바로 이어집니다.
 
-[사진 더 보기](https://positive0103-png.github.io/songdokids/about/#space)
+[사진 더 보기](https://songdokids.co.kr/about/#space)
 
 접수 데스크와 대기실
 
@@ -168,13 +168,13 @@
 - 소아청소년과 의학 석사
 - 삼성서울병원 아토피센터 연수
 
-[인사말과 약력 보기](https://positive0103-png.github.io/songdokids/about/)
+[인사말과 약력 보기](https://songdokids.co.kr/about/)
 
 ## 우리 아이 키, 얼마나 클까요?
 
 부모의 키로 유전적 예측 키를 계산하고, 아이의 지금 키를 한국 소아청소년 성장도표와 비교해 볼 수 있습니다.
 
-[키 예측 계산해 보기](https://positive0103-png.github.io/songdokids/growth-calculator/)
+[키 예측 계산해 보기](https://songdokids.co.kr/growth-calculator/)
 
 ## 오시기 전에 확인하세요
 
@@ -191,19 +191,19 @@
 
 인천광역시 연수구 송도문화로28번길 28 글로벌캠퍼스푸르지오 204동 상가 2층 201호
 
-[네이버 지도로 보기](https://map.naver.com/p/entry/place/1344024364) [찾아오는 길 자세히](https://positive0103-png.github.io/songdokids/location/)
+[네이버 지도로 보기](https://map.naver.com/p/entry/place/1344024364) [찾아오는 길 자세히](https://songdokids.co.kr/location/)
 
 주차 상가 지하 주차장, 3시간 무료
 
 지하철 인천 1호선 테크노파크역이 가깝습니다
 
-성인 진료[어른도 진료받을 수 있습니다](https://positive0103-png.github.io/songdokids/clinics/adult/)
+성인 진료[어른도 진료받을 수 있습니다](https://songdokids.co.kr/clinics/adult/)
 
 ## 자주 묻는 질문
 
 진료 시간, 주차, 영유아 건강검진처럼 많이 물어보시는 내용입니다.
 
-[질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ### 송도키즈 소아청소년과의원 진료 시간은 어떻게 되나요?
 
@@ -215,15 +215,15 @@
 
 ### 영유아 건강검진은 언제 받나요?
 
-생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://positive0103-png.github.io/songdokids/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
+생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://songdokids.co.kr/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
 
 ### 어른도 진료받을 수 있나요?
 
-네, 성인도 진료받을 수 있습니다. 성인 예방접종도 합니다. [성인 진료 안내](https://positive0103-png.github.io/songdokids/clinics/adult/)에서 볼 수 있습니다.
+네, 성인도 진료받을 수 있습니다. 성인 예방접종도 합니다. [성인 진료 안내](https://songdokids.co.kr/clinics/adult/)에서 볼 수 있습니다.
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/about/
+주소: https://songdokids.co.kr/about/
 마지막 수정: 2026-11-22
 
 # 병원 소개
@@ -283,7 +283,7 @@
 
 시력검사표를 읽기 어려운 아이도 기기로 굴절 검사를 합니다.
 
-[검사·치료 장비 모두 보기](https://positive0103-png.github.io/songdokids/equipment/)
+[검사·치료 장비 모두 보기](https://songdokids.co.kr/equipment/)
 
 ### 어른보다 더 꼼꼼한 진료
 
@@ -317,14 +317,14 @@
 - 주소: 인천광역시 연수구 송도문화로28번길 28 글로벌캠퍼스푸르지오 204동 상가 2층 201호
 - 전화: 0507-1347-8115
 - 진료 시간: 평일 오전 8:30 ~ 오후 6:30 (점심시간 오후 1:00 ~ 2:00) 토요일 오전 9:00 ~ 오후 1:30 (점심시간 없음) 일요일·공휴일 휴진
-- 진료 안내: [아토피·알레르기, 키 성장, 소아 시력 검사, 영유아 건강검진, 예방접종, 성인 진료](https://positive0103-png.github.io/songdokids/clinics/)
+- 진료 안내: [아토피·알레르기, 키 성장, 소아 시력 검사, 영유아 건강검진, 예방접종, 성인 진료](https://songdokids.co.kr/clinics/)
 - 주차: 상가 지하 주차장, 3시간 무료
 - 지하철: 인천 1호선 테크노파크역이 가깝습니다
 - 부설 기관: [송도키즈 학습심리발달클리닉](https://lke081384-maker.github.io/songdo-kids-clinic/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/
+주소: https://songdokids.co.kr/clinics/
 마지막 수정: 2026-11-22
 
 # 진료 안내
@@ -347,7 +347,7 @@
 - 알레르기 비염
 - 집에서 지키는 관리 수칙
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/atopy/)
+[바로 가기](https://songdokids.co.kr/clinics/atopy/)
 
 ### 키 성장 클리닉
 
@@ -357,7 +357,7 @@
 - 골연령 측정
 - 키 예측 계산
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/growth/)
+[바로 가기](https://songdokids.co.kr/clinics/growth/)
 
 ### 사시·근시·난시 소아 시력 검사
 
@@ -367,7 +367,7 @@
 - 일곱 가지 굴절검사
 - 1분 안에
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/vision/)
+[바로 가기](https://songdokids.co.kr/clinics/vision/)
 
 ### 영유아 건강검진
 
@@ -376,7 +376,7 @@
 - 검진 시기 계산
 - 시기별 검진 항목
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/checkup/)
+[바로 가기](https://songdokids.co.kr/clinics/checkup/)
 
 ### 예방접종
 
@@ -385,7 +385,7 @@
 - 접종하는 날 챙길 일
 - 접종 비용
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/vaccination/)
+[바로 가기](https://songdokids.co.kr/clinics/vaccination/)
 
 ### 성인 진료
 
@@ -394,7 +394,7 @@
 - 성인 예방접종
 - 진료 시간
 
-[바로 가기](https://positive0103-png.github.io/songdokids/clinics/adult/)
+[바로 가기](https://songdokids.co.kr/clinics/adult/)
 
 ### 발달클리닉 부설 송도키즈 학습심리발달클리닉
 
@@ -410,11 +410,11 @@
 
 위에 적은 진료 말고도 소아청소년과 진료를 합니다. 진료 가능 여부가 궁금하면 전화로 물어보세요.
 
-[검사·치료 장비 보기](https://positive0103-png.github.io/songdokids/equipment/) [비급여 진료비 보기](https://positive0103-png.github.io/songdokids/fees/)
+[검사·치료 장비 보기](https://songdokids.co.kr/equipment/) [비급여 진료비 보기](https://songdokids.co.kr/fees/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/atopy/
+주소: https://songdokids.co.kr/clinics/atopy/
 마지막 수정: 2026-11-22
 
 # 아토피·알레르기 클리닉
@@ -460,9 +460,9 @@
 
 아토피 진료에는 레이저, LED 광치료기, 초음파 장비를 함께 씁니다.
 
-- [아토 레이저 1450nm와 400nm 두 가지 파장](https://positive0103-png.github.io/songdokids/equipment/#atopy-devices)
-- [LED 광치료기 세 종류의 LED를 단계별로 사용](https://positive0103-png.github.io/songdokids/equipment/#atopy-devices)
-- [소노케어 초음파 아토피 피부의 보습 관리](https://positive0103-png.github.io/songdokids/equipment/#atopy-devices)
+- [아토 레이저 1450nm와 400nm 두 가지 파장](https://songdokids.co.kr/equipment/#atopy-devices)
+- [LED 광치료기 세 종류의 LED를 단계별로 사용](https://songdokids.co.kr/equipment/#atopy-devices)
+- [소노케어 초음파 아토피 피부의 보습 관리](https://songdokids.co.kr/equipment/#atopy-devices)
 
 ## 자주 묻는 질문
 
@@ -478,11 +478,11 @@
 
 원인 물질에 노출되면 재채기가 연달아 나고 맑은 콧물, 코막힘, 코 가려움이 나타납니다. 증상이 오래가면 축농증·중이염·천식으로 이어질 수 있으니 미루지 말고 진료를 받아 보세요.
 
-[자주 묻는 질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[자주 묻는 질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/growth/
+주소: https://songdokids.co.kr/clinics/growth/
 마지막 수정: 2026-11-22
 
 # 키 성장 클리닉
@@ -528,9 +528,9 @@
 
 영양 상태와 질병 유무, 성장인자와 성장 관련 호르몬을 검사합니다.
 
-[우리 아이 키, 얼마나 클까요? 부모 키로 유전적 예측 키를 바로 계산하고 성장도표와 비교해 보는 계산기](https://positive0103-png.github.io/songdokids/growth-calculator/)
+[우리 아이 키, 얼마나 클까요? 부모 키로 유전적 예측 키를 바로 계산하고 성장도표와 비교해 보는 계산기](https://songdokids.co.kr/growth-calculator/)
 
-성장판 검사 비용은 [비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/#fees-exam)에서 볼 수 있습니다.
+성장판 검사 비용은 [비급여 진료비 안내](https://songdokids.co.kr/fees/#fees-exam)에서 볼 수 있습니다.
 
 ## 자주 묻는 질문
 
@@ -552,17 +552,17 @@
 
 ### 아이의 예상 키를 미리 계산해 볼 수 있나요?
 
-[키 예측 계산](https://positive0103-png.github.io/songdokids/growth-calculator/)에서 부모의 키로 유전적 예측 키를 계산하고, 아이의 지금 키를 한국 소아청소년 성장도표와 비교해 볼 수 있습니다. 참고용 계산이며, 정확한 예측은 진료와 골연령 검사로 확인합니다.
+[키 예측 계산](https://songdokids.co.kr/growth-calculator/)에서 부모의 키로 유전적 예측 키를 계산하고, 아이의 지금 키를 한국 소아청소년 성장도표와 비교해 볼 수 있습니다. 참고용 계산이며, 정확한 예측은 진료와 골연령 검사로 확인합니다.
 
 ### 성장판 검사 비용은 얼마인가요?
 
-[비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/#fees-exam)의 검진·검사 항목에서 볼 수 있습니다.
+[비급여 진료비 안내](https://songdokids.co.kr/fees/#fees-exam)의 검진·검사 항목에서 볼 수 있습니다.
 
-[자주 묻는 질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[자주 묻는 질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/vision/
+주소: https://songdokids.co.kr/clinics/vision/
 마지막 수정: 2026-11-22
 
 # 사시·근시·난시 소아 시력 검사
@@ -591,13 +591,13 @@
 
 소아용 시력검사기 시력검사표를 읽지 못하는 아이도 검사할 수 있습니다. 눈의 굴절 상태(빛이 눈에 들어와 초점이 맺히는 정도)를 기기로 잽니다.
 
-영유아 건강검진에서는 30개월 검진부터 시력검사를 합니다. [영유아 건강검진 보기](https://positive0103-png.github.io/songdokids/clinics/checkup/)
+영유아 건강검진에서는 30개월 검진부터 시력검사를 합니다. [영유아 건강검진 보기](https://songdokids.co.kr/clinics/checkup/)
 
-[소아 시력 검사에 자주 묻는 질문 보기](https://positive0103-png.github.io/songdokids/faq/#faq-vision)
+[소아 시력 검사에 자주 묻는 질문 보기](https://songdokids.co.kr/faq/#faq-vision)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/checkup/
+주소: https://songdokids.co.kr/clinics/checkup/
 마지막 수정: 2026-11-22
 
 # 영유아 건강검진
@@ -621,7 +621,7 @@
 
 날짜는 생년월일로 계산한 어림값입니다. 정확한 기간은 국민건강보험공단에서 보내는 안내문으로 확인해 주세요.
 
-[예방접종 일정도 함께 보기 생년월일을 넣으면 접종 시기와 검진 기간을 한 번에 계산합니다](https://positive0103-png.github.io/songdokids/schedule-calculator/)
+[예방접종 일정도 함께 보기 생년월일을 넣으면 접종 시기와 검진 기간을 한 번에 계산합니다](https://songdokids.co.kr/schedule-calculator/)
 
 ## 시기별 검진 항목
 
@@ -644,7 +644,7 @@
 
 ### 영유아 건강검진은 언제 받나요?
 
-생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://positive0103-png.github.io/songdokids/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
+생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://songdokids.co.kr/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
 
 ### 영유아 건강검진은 모두 몇 번 받나요?
 
@@ -670,11 +670,11 @@
 
 아이의 발달이 또래와 비슷한지 살펴보는 검사입니다. 영유아 건강검진에서는 생후 9~12개월 검진부터 합니다.
 
-[자주 묻는 질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[자주 묻는 질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/vaccination/
+주소: https://songdokids.co.kr/clinics/vaccination/
 마지막 수정: 2026-11-22
 
 # 예방접종
@@ -691,7 +691,7 @@
 
 나이별 표준 접종 일정은 [질병관리청 예방접종도우미](https://nip.kdca.go.kr)에서 확인할 수 있고, 아이에게 맞는 일정은 진료실에서 함께 정합니다.
 
-[우리 아이 접종 일정 계산하기 생년월일을 넣으면 표준 일정의 접종 시기를 날짜로 보여 드립니다](https://positive0103-png.github.io/songdokids/schedule-calculator/)
+[우리 아이 접종 일정 계산하기 생년월일을 넣으면 표준 일정의 접종 시기를 날짜로 보여 드립니다](https://songdokids.co.kr/schedule-calculator/)
 
 ## 접종하는 날, 이렇게 해 주세요
 
@@ -722,7 +722,7 @@
 - 열이 나면 미지근한 수건으로 몸 닦아 주기
 - 물을 충분히 마시게 하기
 
-[예방접종 비용 보기 건강보험이 적용되지 않는 접종의 비용을 정리했습니다](https://positive0103-png.github.io/songdokids/fees/#fees-vaccine)
+[예방접종 비용 보기 건강보험이 적용되지 않는 접종의 비용을 정리했습니다](https://songdokids.co.kr/fees/#fees-vaccine)
 
 ## 자주 묻는 질문
 
@@ -732,7 +732,7 @@
 
 ### 예방접종 비용은 어디서 볼 수 있나요?
 
-건강보험이 적용되지 않는 접종의 비용은 [비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/#fees-vaccine)에 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
+건강보험이 적용되지 않는 접종의 비용은 [비급여 진료비 안내](https://songdokids.co.kr/fees/#fees-vaccine)에 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
 
 ### 접종하고 집에 돌아와서는 무엇을 챙겨야 하나요?
 
@@ -742,11 +742,11 @@
 
 네, 성인 예방접종도 합니다. 맞으려는 백신이 있는지는 오기 전에 전화(0507-1347-8115)로 확인해 주세요.
 
-[자주 묻는 질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[자주 묻는 질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/clinics/adult/
+주소: https://songdokids.co.kr/clinics/adult/
 마지막 수정: 2026-11-22
 
 # 성인 진료
@@ -767,7 +767,7 @@
 
 성인 예방접종도 합니다. 맞으려는 백신이 있는지는 오기 전에 전화로 확인해 주세요.
 
-[예방접종 비용 보기 건강보험이 적용되지 않는 접종의 비용을 정리했습니다](https://positive0103-png.github.io/songdokids/fees/#fees-vaccine)
+[예방접종 비용 보기 건강보험이 적용되지 않는 접종의 비용을 정리했습니다](https://songdokids.co.kr/fees/#fees-vaccine)
 
 ## 진료 시간
 
@@ -779,7 +779,7 @@
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/equipment/
+주소: https://songdokids.co.kr/equipment/
 마지막 수정: 2026-11-22
 
 # 검사·치료 장비
@@ -822,7 +822,7 @@ X선 촬영
 
 시력검사표를 읽지 못하는 아이도 검사할 수 있습니다. 생후 6개월부터, 일곱 가지 굴절검사를 1분 안에 합니다.
 
-[소아 시력 검사 보기](https://positive0103-png.github.io/songdokids/clinics/vision/)
+[소아 시력 검사 보기](https://songdokids.co.kr/clinics/vision/)
 
 골연령 측정
 
@@ -830,7 +830,7 @@ X선 촬영
 
 손 X선 사진을 인공지능 판독 프로그램으로 분석합니다. 골연령(뼈의 성숙도)을 개월 단위로 파악해 예측 키 계산에 씁니다.
 
-[키 성장 클리닉 보기](https://positive0103-png.github.io/songdokids/clinics/growth/)
+[키 성장 클리닉 보기](https://songdokids.co.kr/clinics/growth/)
 
 ## 아토피 진료 장비
 
@@ -854,11 +854,11 @@ X선 촬영
 
 1MHz, 3MHz, 10MHz 초음파를 쓰는 장비로, 아토피 피부의 보습 관리에 사용합니다.
 
-[아토피·알레르기 클리닉 보기](https://positive0103-png.github.io/songdokids/clinics/atopy/)
+[아토피·알레르기 클리닉 보기](https://songdokids.co.kr/clinics/atopy/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/growth-calculator/
+주소: https://songdokids.co.kr/growth-calculator/
 마지막 수정: 2026-11-22
 
 # 우리 아이 키, 얼마나 클까요?
@@ -876,7 +876,7 @@ X선 촬영
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/schedule-calculator/
+주소: https://songdokids.co.kr/schedule-calculator/
 마지막 수정: 2026-11-22
 
 # 예방접종·영유아검진 일정 계산기
@@ -932,7 +932,7 @@ X선 촬영
 
 ## 영유아 건강검진 시기
 
-영유아 건강검진은 본인 부담 없이 받습니다. 시기별 검진 항목은 [영유아 건강검진 안내](https://positive0103-png.github.io/songdokids/clinics/checkup/)에 정리했습니다.
+영유아 건강검진은 본인 부담 없이 받습니다. 시기별 검진 항목은 [영유아 건강검진 안내](https://songdokids.co.kr/clinics/checkup/)에 정리했습니다.
 
 | 차수 | 검진 기간 |
 | --- | --- |
@@ -958,13 +958,13 @@ X선 촬영
 - ‘만 4~6세’는 만 4세 생일부터 만 7세 생일 전날까지입니다.
 - 아이의 건강 상태나 앞선 접종 날짜에 따라 실제 접종일은 달라질 수 있습니다. 정확한 일정은 진료실에서 정합니다.
 
-[예방접종 안내 보기](https://positive0103-png.github.io/songdokids/clinics/vaccination/) [예방접종 비용 보기](https://positive0103-png.github.io/songdokids/fees/#fees-vaccine)
+[예방접종 안내 보기](https://songdokids.co.kr/clinics/vaccination/) [예방접종 비용 보기](https://songdokids.co.kr/fees/#fees-vaccine)
 
 ## 자주 묻는 질문
 
 ### 아이 예방접종과 영유아검진 날짜를 생년월일로 계산해 볼 수 있나요?
 
-네, [예방접종·영유아검진 일정 계산기](https://positive0103-png.github.io/songdokids/schedule-calculator/)에 생년월일을 넣으면 표준 일정에 따른 접종 시기와 검진 기간을 날짜로 보여 줍니다. 넣은 값은 저장하거나 보내지 않습니다. 실제 접종 기록은 반영하지 않으니, 맞은 접종은 아기수첩이나 질병관리청 예방접종도우미에서 확인해 주세요.
+네, [예방접종·영유아검진 일정 계산기](https://songdokids.co.kr/schedule-calculator/)에 생년월일을 넣으면 표준 일정에 따른 접종 시기와 검진 기간을 날짜로 보여 줍니다. 넣은 값은 저장하거나 보내지 않습니다. 실제 접종 기록은 반영하지 않으니, 맞은 접종은 아기수첩이나 질병관리청 예방접종도우미에서 확인해 주세요.
 
 ### 생후 2개월에는 어떤 예방접종을 하나요?
 
@@ -986,11 +986,11 @@ X선 촬영
 
 아니요, 저장하거나 어디로 보내지 않습니다. 계산은 보고 계신 브라우저 안에서만 하고, 화면을 닫으면 넣은 값은 사라집니다.
 
-[자주 묻는 질문 모두 보기](https://positive0103-png.github.io/songdokids/faq/)
+[자주 묻는 질문 모두 보기](https://songdokids.co.kr/faq/)
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/fees/
+주소: https://songdokids.co.kr/fees/
 마지막 수정: 2026-11-22
 
 # 비급여 진료비 안내
@@ -1161,7 +1161,7 @@ X선 촬영
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/location/
+주소: https://songdokids.co.kr/location/
 마지막 수정: 2026-11-22
 
 # 오시는 길
@@ -1220,7 +1220,7 @@ X선 촬영
 
 ---
 
-주소: https://positive0103-png.github.io/songdokids/faq/
+주소: https://songdokids.co.kr/faq/
 마지막 수정: 2026-11-22
 
 # 자주 묻는 질문
@@ -1261,7 +1261,7 @@ X선 촬영
 
 ### 송도키즈 소아청소년과의원은 어디에 있나요?
 
-인천광역시 연수구 송도문화로28번길 28 글로벌캠퍼스푸르지오 204동 상가 2층 201호에 있습니다. 인천 1호선 테크노파크역이 가깝습니다. 주차장에서 병원까지 가는 길은 [오시는 길](https://positive0103-png.github.io/songdokids/location/)에 사진으로 안내해 두었습니다.
+인천광역시 연수구 송도문화로28번길 28 글로벌캠퍼스푸르지오 204동 상가 2층 201호에 있습니다. 인천 1호선 테크노파크역이 가깝습니다. 주차장에서 병원까지 가는 길은 [오시는 길](https://songdokids.co.kr/location/)에 사진으로 안내해 두었습니다.
 
 ### 주차할 수 있나요? 주차비가 있나요?
 
@@ -1283,19 +1283,19 @@ X선 촬영
 
 ### 어떤 진료를 하나요?
 
-소아청소년과 진료와 함께 아토피·알레르기, 키 성장, 소아 시력 검사, 영유아 건강검진, 예방접종을 따로 챙겨 봅니다. 자세한 내용은 [진료 안내](https://positive0103-png.github.io/songdokids/clinics/)에서 볼 수 있습니다.
+소아청소년과 진료와 함께 아토피·알레르기, 키 성장, 소아 시력 검사, 영유아 건강검진, 예방접종을 따로 챙겨 봅니다. 자세한 내용은 [진료 안내](https://songdokids.co.kr/clinics/)에서 볼 수 있습니다.
 
 ### 어른도 진료받을 수 있나요?
 
-네, 성인도 진료받을 수 있습니다. 성인 예방접종도 합니다. [성인 진료 안내](https://positive0103-png.github.io/songdokids/clinics/adult/)에서 볼 수 있습니다.
+네, 성인도 진료받을 수 있습니다. 성인 예방접종도 합니다. [성인 진료 안내](https://songdokids.co.kr/clinics/adult/)에서 볼 수 있습니다.
 
 ### 원장님은 어떤 분인가요?
 
-황선태 원장은 소아청소년과 전문의이고 소아청소년과 의학 석사입니다. 삼성서울병원 아토피센터에서 연수했고, 세 아이의 아빠입니다. 인사말과 약력은 [병원 소개](https://positive0103-png.github.io/songdokids/about/)에 있습니다.
+황선태 원장은 소아청소년과 전문의이고 소아청소년과 의학 석사입니다. 삼성서울병원 아토피센터에서 연수했고, 세 아이의 아빠입니다. 인사말과 약력은 [병원 소개](https://songdokids.co.kr/about/)에 있습니다.
 
 ### 열이 나는 아이는 피검사를 어떻게 하나요?
 
-팔에서 피를 뽑지 않고 손끝에서 피 한 방울로 염증 검사를 하고, 5분 안에 결과를 봅니다. 검사에 쓰는 장비는 [검사·치료 장비](https://positive0103-png.github.io/songdokids/equipment/)에 정리했습니다.
+팔에서 피를 뽑지 않고 손끝에서 피 한 방울로 염증 검사를 하고, 5분 안에 결과를 봅니다. 검사에 쓰는 장비는 [검사·치료 장비](https://songdokids.co.kr/equipment/)에 정리했습니다.
 
 ### 발달이나 학습, 심리 상담도 받을 수 있나요?
 
@@ -1305,7 +1305,7 @@ X선 촬영
 
 ### 영유아 건강검진은 언제 받나요?
 
-생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://positive0103-png.github.io/songdokids/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
+생후 4개월부터 71개월(6세)까지 모두 일곱 차례 받습니다. 검진 기간은 생후 4~6개월, 9~12개월, 18~24개월, 30~36개월, 42~48개월, 54~60개월, 66~71개월입니다. [검진 시기 계산](https://songdokids.co.kr/clinics/checkup/#checkup-calc)에 생년월일을 넣으면 차수별 기간을 날짜로 볼 수 있습니다.
 
 ### 영유아 건강검진은 모두 몇 번 받나요?
 
@@ -1339,7 +1339,7 @@ X선 촬영
 
 ### 예방접종 비용은 어디서 볼 수 있나요?
 
-건강보험이 적용되지 않는 접종의 비용은 [비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/#fees-vaccine)에 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
+건강보험이 적용되지 않는 접종의 비용은 [비급여 진료비 안내](https://songdokids.co.kr/fees/#fees-vaccine)에 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
 
 ### 접종하고 집에 돌아와서는 무엇을 챙겨야 하나요?
 
@@ -1353,7 +1353,7 @@ X선 촬영
 
 ### 아이 예방접종과 영유아검진 날짜를 생년월일로 계산해 볼 수 있나요?
 
-네, [예방접종·영유아검진 일정 계산기](https://positive0103-png.github.io/songdokids/schedule-calculator/)에 생년월일을 넣으면 표준 일정에 따른 접종 시기와 검진 기간을 날짜로 보여 줍니다. 넣은 값은 저장하거나 보내지 않습니다. 실제 접종 기록은 반영하지 않으니, 맞은 접종은 아기수첩이나 질병관리청 예방접종도우미에서 확인해 주세요.
+네, [예방접종·영유아검진 일정 계산기](https://songdokids.co.kr/schedule-calculator/)에 생년월일을 넣으면 표준 일정에 따른 접종 시기와 검진 기간을 날짜로 보여 줍니다. 넣은 값은 저장하거나 보내지 않습니다. 실제 접종 기록은 반영하지 않으니, 맞은 접종은 아기수첩이나 질병관리청 예방접종도우미에서 확인해 주세요.
 
 ### 생후 2개월에는 어떤 예방접종을 하나요?
 
@@ -1395,11 +1395,11 @@ X선 촬영
 
 ### 아이의 예상 키를 미리 계산해 볼 수 있나요?
 
-[키 예측 계산](https://positive0103-png.github.io/songdokids/growth-calculator/)에서 부모의 키로 유전적 예측 키를 계산하고, 아이의 지금 키를 한국 소아청소년 성장도표와 비교해 볼 수 있습니다. 참고용 계산이며, 정확한 예측은 진료와 골연령 검사로 확인합니다.
+[키 예측 계산](https://songdokids.co.kr/growth-calculator/)에서 부모의 키로 유전적 예측 키를 계산하고, 아이의 지금 키를 한국 소아청소년 성장도표와 비교해 볼 수 있습니다. 참고용 계산이며, 정확한 예측은 진료와 골연령 검사로 확인합니다.
 
 ### 성장판 검사 비용은 얼마인가요?
 
-[비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/#fees-exam)의 검진·검사 항목에서 볼 수 있습니다.
+[비급여 진료비 안내](https://songdokids.co.kr/fees/#fees-exam)의 검진·검사 항목에서 볼 수 있습니다.
 
 ## 소아 시력 검사
 
@@ -1433,10 +1433,10 @@ X선 촬영
 
 ### 비급여 진료비는 어디서 확인하나요?
 
-[비급여 진료비 안내](https://positive0103-png.github.io/songdokids/fees/)에 서류 발급, 검진·검사, 비급여 진료, 알레르기 치료, 주사·수액, 치료재료·레이저, 예방접종 비용을 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
+[비급여 진료비 안내](https://songdokids.co.kr/fees/)에 서류 발급, 검진·검사, 비급여 진료, 알레르기 치료, 주사·수액, 치료재료·레이저, 예방접종 비용을 정리했습니다. 금액은 바뀔 수 있으니 정확한 비용은 병원에 문의해 주세요.
 
 ### 진단서나 진료 확인서 같은 서류를 발급받을 수 있나요?
 
-네, 진료확인서, 통원확인서, 의사소견서, 일반진단서(영문 포함), 진료기록 사본, 예방접종 증명서 등을 발급합니다. 진료확인서와 통원확인서에는 진단명과 질병분류코드를 적지 않습니다. 서류별 수수료는 [서류 발급 비용](https://positive0103-png.github.io/songdokids/fees/#fees-docs)에서 볼 수 있습니다.
+네, 진료확인서, 통원확인서, 의사소견서, 일반진단서(영문 포함), 진료기록 사본, 예방접종 증명서 등을 발급합니다. 진료확인서와 통원확인서에는 진단명과 질병분류코드를 적지 않습니다. 서류별 수수료는 [서류 발급 비용](https://songdokids.co.kr/fees/#fees-docs)에서 볼 수 있습니다.
 
 여기에 없는 내용은 진료 시간 안에 전화(0507-1347-8115)로 물어보세요. 이 답변은 일반적인 안내이며, 진단과 치료는 진찰한 뒤에 결정합니다.
